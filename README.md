@@ -1,2 +1,2 @@
 # jetsonsetup
-hdub's nvidia setup setup script
+hdub's nvidia jetson setup script
